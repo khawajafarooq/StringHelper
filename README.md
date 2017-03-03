@@ -1,8 +1,8 @@
-# StringHelper
+## StringHelper
 
 Playground demonstration for string extension.
 
-## How can you use it?
+### How can you use it?
 Best way to use it by making its String extension.
 
 ```
@@ -30,7 +30,7 @@ extension String {
     }
 }
 ```
-Usage<>
+### Usage
 
 ```
 var str = " Hello, playground "
@@ -47,5 +47,5 @@ str.isSingleNumericDigit()
 
 ```
 
-## Compatibility
+### Compatibility
 Verified that this repository's code works in XCode 8 with Swift 3.0
